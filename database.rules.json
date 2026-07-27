@@ -1,0 +1,32 @@
+{
+  "rules": {
+    "students": {
+      ".read": "true",
+      ".write": "true"
+    },
+    "teachers": {
+      ".read": "true",
+      ".write": "true"
+    },
+    "attendance": {
+      ".read": "true",
+      ".write": "true"
+    },
+    "exams": {
+      ".read": "true",
+      ".write": "true"
+    },
+    "marks": {
+      ".read": "true",
+      ".write": "true"
+    },
+    "feePayments": {
+      ".read": "true",
+      ".write": "true"
+    },
+    "announcements": {
+      ".read": "true",
+      ".write": "true"
+    }
+  }
+}

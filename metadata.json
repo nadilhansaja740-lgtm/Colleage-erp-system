@@ -1,0 +1,6 @@
+{
+  "name": "NH College ERP System",
+  "description": "Comprehensive NH College ERP System with Role-Based Access Control, Subject Management, and Firebase Realtime Database, owned by NH Education Foundation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
