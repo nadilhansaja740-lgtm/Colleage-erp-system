@@ -1,0 +1,6 @@
+{
+  "name": "MINU SHOE PALACE – Business Management System",
+  "description": "Complete Business Management and ERP System for MINU SHOE PALACE with Multi-language (Sinhala & English) support, Inventory, Sales & POS Billing, Money Collection, Expenses, Analytics, and Exportable Reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
